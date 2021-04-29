@@ -1,2 +1,2 @@
 i,m is sha zi
-i,m is nt
+i,m is nc
